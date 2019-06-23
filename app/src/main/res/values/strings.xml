@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reps </string>
+
+    <string-array name="reps_arrays">
+        <item>Min 03 Max 08</item>
+        <item>Min 02 Max 09</item>
+        <item>Min 03 Max 10</item>
+        <item>Min 04 Max 11</item>
+        <item>Min 05 Max 12</item>
+
+    </string-array>
+
+</resources>
